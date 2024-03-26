@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CompuTECHUB](https://github.com/josue130/CompuTECHUB.git)
 
-- 🌱 I’m currently learning **Solidity, Blockchain**
+- 🌱 I’m currently learning **Rust, Cairo, Solidity, Blockchain**
 
 - 📫 How to reach me **gersonloavas@gmail.com**
 
