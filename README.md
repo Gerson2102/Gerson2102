@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gerson Loaiza Vásquez</h1>
+<h1 align="center">Hi 👋, I'm Gerson</h1>
 <h3 align="center">A passionate software developer from Costa Rica</h3>
 <img align="right" alt="Coding" width="400" src="https://digiday.com/wp-content/uploads/sites/3/2021/11/blockchain-broken-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson2102&label=Profile%20views&color=0e75b6&style=flat" alt="gerson2102" /> </p>
 
-- 🔭 I’m currently working on [CompuTECHUB](https://github.com/josue130/CompuTECHUB.git)
+<!-- 🔭 I’m currently working on [CompuTECHUB](https://github.com/josue130/CompuTECHUB.git) -->
 
 - 🌱 I’m currently learning **Rust, Cairo, Starknet, Blockchain**
 
 - 📫 How to reach me **gersonloavas@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Qs1IT4j4Z6Gp3MXvH5yw37G8d0jQujmTknGsULDLiRY/edit?usp=sharing](https://docs.google.com/document/d/1Qs1IT4j4Z6Gp3MXvH5yw37G8d0jQujmTknGsULDLiRY/edit?usp=sharing)
+<!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1Qs1IT4j4Z6Gp3MXvH5yw37G8d0jQujmTknGsULDLiRY/edit?usp=sharing](https://docs.google.com/document/d/1Qs1IT4j4Z6Gp3MXvH5yw37G8d0jQujmTknGsULDLiRY/edit?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
